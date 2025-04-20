@@ -209,9 +209,5 @@ Combine methods — automation + human timing = win.
 This toolkit is released under the MIT License.
 Educational Use Only. Do NOT use on real college servers......ah bokka le chat gpt atte cheptundi nuv chey choskundam*
 
-Sure! Here’s a modified closing tagline with a more heartfelt touch:
 
----
-
-**Crafted with dedication, love, and passion by Gokul**  
-💙💫🧿🤍💘
+### Crafted with love....🧿🤍✨
